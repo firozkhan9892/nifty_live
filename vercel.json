@@ -1,0 +1,9 @@
+{
+  "buildCommand": "pip install -r requirements-vercel.txt",
+  "functions": {
+    "api/index.py": {
+      "maxDuration": 60,
+      "memory": 512
+    }
+  }
+}

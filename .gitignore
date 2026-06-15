@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+accuracy.json
+bot_output.log
+bot_run.log
+run.log
+minimal.log
+*.pyc
+logs/
+check_updates.py
