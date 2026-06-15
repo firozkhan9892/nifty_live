@@ -1,5 +1,5 @@
 python-telegram-bot>=20.7
-SmartApi>=1.5.0
+smartapi-python>=1.5.5
 pyotp>=2.9.0
 yfinance>=0.2.36
 pandas>=2.1.0
