@@ -13,3 +13,4 @@ minimal.log
 *.pyc
 logs/
 check_updates.py
+requirements.txt
