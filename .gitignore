@@ -10,7 +10,10 @@ bot_output.log
 bot_run.log
 run.log
 minimal.log
-*.pyc
 logs/
 check_updates.py
-requirements.txt
+vercel.json
+pyproject.toml
+uv.lock
+requirements-vercel.txt
+build.sh
