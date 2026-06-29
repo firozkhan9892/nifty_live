@@ -2,9 +2,7 @@ version = 1
 revision = 3
 requires-python = ">=3.10"
 resolution-markers = [
-    "python_full_version >= '3.14' and sys_platform == 'linux'",
-    "python_full_version >= '3.11' and python_full_version < '3.14' and sys_platform == 'linux'",
-    "python_full_version < '3.11' and sys_platform == 'linux'",
+    "sys_platform == 'linux'",
 ]
 supported-markers = [
     "sys_platform == 'linux'",
