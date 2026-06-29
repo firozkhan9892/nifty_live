@@ -12,8 +12,8 @@ run.log
 minimal.log
 logs/
 check_updates.py
-vercel.json
-pyproject.toml
-uv.lock
-requirements-vercel.txt
-build.sh
+.vercel/
+bot_live.log
+bot_live_err.log
+bot.log
+wa_session/

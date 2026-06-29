@@ -1,4 +1,2 @@
 #!/bin/bash
 pip install -r requirements-vercel.txt
-pip install xgboost>=2.0.0
-pip uninstall -y nvidia-*
