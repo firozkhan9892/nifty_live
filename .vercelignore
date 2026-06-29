@@ -26,3 +26,4 @@ __pycache__/
 *.jpg
 *.jpeg
 *.gif
+uv.lock
